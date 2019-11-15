@@ -1,0 +1,12 @@
+h1 {
+    background-image: linear-gradient(blue, black);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#number-display{
+    border: 1px black solid;
+    height: 100px;
+    width: 60%;
+    align: center;
+}
